@@ -23,6 +23,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Data\Configurations\" />
     <Folder Include="Docs\" />
+    <Folder Include="Views\Shared\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Resources\" />
   </ItemGroup>
 </Project>
